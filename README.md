@@ -1,2 +1,4 @@
 # my-first-repo
-Welcome to my first Git Repository
+Welcome to my first Git Repository.
+
+Author - Mushtaq Maniyar
